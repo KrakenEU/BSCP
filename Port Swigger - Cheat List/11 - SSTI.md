@@ -1,4 +1,5 @@
-![[Pasted image 20240112131652.png]]
+![imagen](https://github.com/KrakenEU/BSCP/assets/80364768/04ebf58a-e6c7-463e-9593-126d84ad57c8)
+
 ```
 {{7*7}}
 ${7*7}
