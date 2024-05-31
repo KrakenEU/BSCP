@@ -1,4 +1,4 @@
-![[Pasted image 20240321135338.png]]
+![imagen](https://github.com/KrakenEU/BSCP/assets/80364768/9c626c18-770c-4d0d-a758-322c823c51d4)
 
 Stage 1 - Get access to a low privileged user account.
 Stage 2 - Escalate privileges to the administrator account.
@@ -62,6 +62,5 @@ location, ng-app, eval, replace, addEventListener, postMessage
 [Deserialization](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study?tab=readme-ov-file#deserialization)  
 [OS Command Injection](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study?tab=readme-ov-file#os-command-injection)
 
-![[Pasted image 20240401002037.png]]
-![[Pasted image 20240401002520.png]]
+![imagen](https://github.com/KrakenEU/BSCP/assets/80364768/e70d8236-0a2e-4053-a675-8b5865d1b181)
 
